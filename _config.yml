@@ -1,0 +1,80 @@
+# Site settings
+title: Jatomis Stevenson
+subtitle: Ideas become reality.
+email: Jatomis.Stevenson@gmail.com
+description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+author: Jatomis Stevenson
+street_address: 
+city: Los Angeles
+state: California
+zip_code: 
+country: United States of America
+phone: 
+
+# Server Settings
+#baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+#port: 3000 # the port you call when serving locally
+
+# Social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/jatomis/
+linkedin_url: https://www.linkedin.com/in/jatomis-stevenson-7b309452/
+pinterest_url:
+slack_url: 
+twitter_url: https://twitter.com/jatomis
+medium_url:
+
+# Build settings
+markdown: kramdown
+
+# Excerpt separator definition
+excerpt_separator: "<!--excerpt-->"
+
+# Sidebar blurb to get in contact
+sidebar_blurb:
+
+
+# Collections settings (Allows the left hand menus to work properly)
+collections:
+  anchors:
+    submenu:
+    another_submenu:
+    output: true
+    permalink: /:name
+  #mini_articles:
+    #output: true
+    #permalink: /:name
+#plugins: [jekyll-paginate]
+#paginate: 100
+
+#Default settings (Allows the creation of predefined post fields when working with Jekyll Admin)
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+      tags: ""
+      image: ""
+      aggregatelimit: 4
+      unlistedtags: ""
+  -
+    scope:
+      path: ""
+      type: "anchors"
+    values:
+      layout: "page"
+      tag: ""
+      icon: ""
+      image: ""
+      imagecredit: ""
+      includepost: 1
+      aggregatelimit: 4
+      
+

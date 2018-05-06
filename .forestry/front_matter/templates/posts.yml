@@ -1,0 +1,59 @@
+---
+pages:
+- _posts/2018-04-30-journaling-your-business-for-deliverables-and-marketing.md
+- _posts/2018-04-30-creating-math-based-3d-models.md
+- _posts/2018-04-28-getting-the-most-of-your-battery.md
+- _posts/2016-01-06-post_number 6.md
+- _posts/2016-01-05-post_number 5.md
+- _posts/2016-01-04-post_number 4.md
+- _posts/2016-01-03-post_number 3.md
+- _posts/2016-01-02-post_number 2.md
+- _posts/2016-01-01-post_number 1.md
+hide_body: false
+is_partial: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+- name: imagecredit
+  label: Imagecredit
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: aggregatelimit
+  label: Aggregatelimit
+  type: text
+  hidden: false
+  default: 4
+- name: unusedtags
+  label: Unusedtags
+  type: text
+  hidden: false
+  default: ''
+- name: unlistedtags
+  label: Unlistedtags
+  type: text
+  hidden: false
+  default: ''

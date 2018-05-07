@@ -62,8 +62,10 @@ defaults:
       layout: "post"
       tags: ""
       image: ""
+      imagecredit: ""
       aggregatelimit: 4
       unlistedtags: ""
+      
   -
     scope:
       path: ""
@@ -77,4 +79,4 @@ defaults:
       includepost: 1
       aggregatelimit: 4
       
-
+show drafts: true

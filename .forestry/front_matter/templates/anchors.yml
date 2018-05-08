@@ -1,7 +1,7 @@
 ---
 pages:
-- _anchors/tags.md
 - _anchors/motorcycles.md
+- _anchors/tags.md
 - _anchors/invention.md
 hide_body: false
 is_partial: false

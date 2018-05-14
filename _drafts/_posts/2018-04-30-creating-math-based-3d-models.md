@@ -30,4 +30,4 @@ As the target audience has no background in programming I wanted to find a tool 
 
 This tool was great, we could use it to make rudimentary math based 2-D drawings using the slope intercept form y=mx+b or quadratic equations or trigonometric functions. We can teach these fundamental tools to make 3-dimensional objects treating the formulas like paintbrushes. It works in parametric or polar forms and you can have both mathematical models projected upon one another. The only "problem" we had was that it would not generate a CAD friendly format. Luckily, the software had the ability to export an image with just the function without the axes or markings and I had experience turning raster images into svgs and then svgs into dxfs via a litle program called inkscape.
 
-For all 3D manipulation  of my clent's models, we used the free software suite Tinkercad. Tinkercad let’s you import svg files and 
+For all 3D manipulation  of my clent's models, we used the free software suite Tinkercad. Tinkercad let’s you import svg files and turn them into simple extrusions.

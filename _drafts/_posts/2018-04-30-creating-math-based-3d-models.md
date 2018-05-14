@@ -8,7 +8,7 @@ imagecredit: Procedural Recursion by <a href="http://bluevisual.tv/personal/pyra
   Weber</a>
 unlistedtags: programming art 3dprinting math
 date: 2018-04-30 00:00:00 +0000
-image: "/Assets/Images/Procedural Recursion.jpg"
+image: "/assets/images/Procedural Recursion.jpg"
 unusedtags: ''
 ---
 One of my clients requested a longer form 3-D Printing class that needed a tangible immediate benefit present when participants went to the class. One of the ideas that came up was to use mathematical formulas to create 3-D objects. The goal was to be able to show every day tangible benefits to knowing math and 3D printing and using it in an artistic fashion. <!--excerpt-->

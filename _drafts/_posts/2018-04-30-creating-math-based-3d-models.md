@@ -4,7 +4,7 @@ layout: post
 tags:
 - invention
 aggregatelimit: 4
-imagecredit: Kevin Weber
+imagecredit: Procedural Recursion by Kevin Weber
 unlistedtags: programming art 3dprinting math
 date: 2018-04-30 00:00:00 +0000
 image: "/uploads/2018/05/14/Procedural Recursion.jpg"

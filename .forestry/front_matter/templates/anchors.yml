@@ -1,8 +1,4 @@
 ---
-pages:
-- _anchors/motorcycles.md
-- _anchors/tags.md
-- _anchors/invention.md
 hide_body: false
 is_partial: false
 fields:
@@ -61,3 +57,7 @@ fields:
   type: text
   hidden: false
   default: 4
+pages:
+- _anchors/motorcycles.md
+- _anchors/invention.md
+- _anchors/tags.md

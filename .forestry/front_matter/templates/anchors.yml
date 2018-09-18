@@ -1,4 +1,5 @@
 ---
+label: Anchors
 hide_body: false
 is_partial: false
 fields:
@@ -58,6 +59,7 @@ fields:
   hidden: false
   default: 4
 pages:
+- _anchors/website-development.md
 - _anchors/motorcycles.md
 - _anchors/invention.md
 - _anchors/tags.md

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog Tags
+title: 
 image: john-carlisle-539580.jpg
 imagecredit: Photo by John Carlisle on Unsplash
 header1: Blog Tags

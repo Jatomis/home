@@ -13,4 +13,5 @@ Welcome, this website is a collection of thoughts and ideas I have had as I work
 
 For those of you who are interested in what I do professionally:
 
-I have assisted with in raising over $50 million as well brought several products to market. My experience in working with testing labs as well as manufacturing techniques such as 3D Printing, machining, injection molding, casting, electronics, computers, programming and marketing can help bring your idea to reality. If you wish to make products to sell to others for more than just the chance of a royalty like you do with other invention services, click here: <a href="https://stevensondesignconsulting.com/products" class="button big">{{page.cta}}</a>
+I have assisted with in raising over $50 million as well brought several products to market. My experience in working with testing labs as well as manufacturing techniques such as 3D Printing, machining, injection molding, casting, electronics, computers, programming and marketing can help bring your idea to reality. If you wish to make products to sell to others for more than just the chance of a royalty like you do with other invention services, click here: 
+<a href="https://stevensondesignconsulting.com/products" class="button big">{{page.cta}}</a>

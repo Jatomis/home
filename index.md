@@ -16,5 +16,5 @@ For those of you who are interested in what I do professionally:
 I have assisted with creating technology and curriculum for Stevenson Design and Consulting Solutions, Petception, KIGT Inc, Pavana Indian Hair, Not for Sale Clothing, Be A Maker Club, iMicromed, Chargerhelp and GLabs. My experience in working with testing labs as well as manufacturing techniques such as 3D printing, machining, injection molding, casting, electronics, computers, programming and marketing can help bring your idea to reality. My consultancy has developed a way to atomize the design process to make it easier for customers to understand and budget in such a way to scale up from the most rudimentary concept all the way up to a fully-detailed design, click here: 
 <br>
 <div>
-<a href="https://stevensondesignconsulting.com/products" class="button big">{{page.cta}}</a>
+<a href="https://sdcsolutions.square.site/" class="button big">{{page.cta}}</a>
 </div>

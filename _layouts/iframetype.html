@@ -10,10 +10,12 @@
 <html>
 
 {% include head.html %}
-body, html {;}
-.row-container {;}
-.first-row {; }
-.iframed { flex-grow: 1; border: none; margin: 0; padding: 0; }
+	<style>body, html {width: 100%; height: 100%; margin: 0; padding: 0}
+		.row-container {display: flex; width: 100%; height: 100%; flex-direction: column; background-color: blue; overflow: hidden;}
+		.first-row {background-color: lime; }
+		.second-row { flex-grow: 1; border: none; margin: 0; padding: 0; }
+	</style>
+
 <body>
 
     <!-- Wrapper -->
@@ -35,8 +37,11 @@ body, html {;}
                     <span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
                     <p align = "right" >{{page.imagecredit}}</p>
                   {% endif %}
-                  
-                    {{ content }}
+                  	<div class="row-container">
+			  <iframe src="page.iframesrc" class="second-row"></iframe>
+				{{ content }}
+			</div>
+                    
                     {% include paginate.html %}
                     
 

@@ -18,16 +18,19 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
-facebook_url:
-github_url:
+facebook_url: https://www.facebook.com/Jatomis/
+github_url: https://github.com/jatomis
 gitlab_url: 
 googleplus_url: 
 instagram_url: https://www.instagram.com/jatomis/
 linkedin_url: https://www.linkedin.com/in/jatomis-stevenson-7b309452/
 pinterest_url:
 slack_url: 
-twitter_url: https://twitter.com/jatomis
-medium_url:
+twitter_url: 
+medium_url: https://medium.com/@jatomis
+twitch_url: https://www.twitch.tv/thejatomis
+tiktok_url: https://www.tiktok.com/@thejatomis
+discord_url:
 
 # Build settings
 markdown: kramdown

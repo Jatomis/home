@@ -5,7 +5,7 @@ image:
 imagecredit:
 icon: icon fa-lightbulb-o 
 tag: default
-iframesrc: "https://sdcsolutions.square.site/"
+
 ---
 
 

@@ -37,9 +37,12 @@
                     <span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
                     <p align = "right" >{{page.imagecredit}}</p>
                   {% endif %}
-                  	<div class="row-container">
-			  <iframe src="page.iframesrc" class="second-row"></iframe>
-				{{ content }}
+			<div class="row-container">
+	 			 <div class="first-row">
+	   				 <p>Some text</p>
+	   				 <p>And some more text</p>
+	  			</div>
+	  			<iframe src="https://sdcsolutions.square.site/" class="second-row"></iframe>
 			</div>
                     
                     {% include paginate.html %}
